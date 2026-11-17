@@ -1,6 +1,8 @@
 # CourseCloud – Cloud-Based Online Course Registration System
 
 A functional mini-project prototype built with **Python, Streamlit and SQLite**. It demonstrates the core workflow of browsing courses, searching/filtering, registering students, validating seat availability, and reviewing enrollment reports.
+application link
+https://cloud-project-donvbcrfpwrbcewykikuz6.streamlit.app/
 
 ## Features
 - Course catalog with title, code, category, instructor, duration, level and seat count.
